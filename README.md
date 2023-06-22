@@ -24,7 +24,7 @@ To run the stock prediction app locally, follow these steps:
 
    streamlit run stock-prediction-app.py
 
-5.Open a web browser and navigate to the URL displayed in the terminal to access the app.
+5. Open a web browser and navigate to the URL displayed in the terminal to access the app.
 
 ## Usage
 Upon running the app, a web page will open in your browser.
