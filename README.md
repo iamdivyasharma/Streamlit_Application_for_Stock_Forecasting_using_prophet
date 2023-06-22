@@ -12,16 +12,17 @@ To run the stock prediction app locally, follow these steps:
    ```bash
    git clone https://github.com/iamdivyasharma/stock-prediction-app.git
 
-2.Change to the project directory:
+2. Change to the project directory:
 
-cd stock-prediction-app
+   cd stock-prediction-app
 
-3.Install the required dependencies using pip:
-pip install -r requirements.txt
+3. Install the required dependencies using pip:
+   
+   pip install -r requirements.txt
 
-4.Run the application:
+4. Run the application:
 
-streamlit run app.py
+   streamlit run app.py
 
 5.Open a web browser and navigate to the URL displayed in the terminal to access the app.
 
