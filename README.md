@@ -1,5 +1,5 @@
 
-# Stock Prediction App
+## Stock Prediction App
 
 This is a stock prediction application that utilizes historical stock data to predict and display future stock prices. The app is built using the Streamlit framework and incorporates the Prophet library for forecasting.
 
@@ -26,7 +26,7 @@ To run the stock prediction app locally, follow these steps:
 
 5.Open a web browser and navigate to the URL displayed in the terminal to access the app.
 
-# Usage
+## Usage
 Upon running the app, a web page will open in your browser.
 
 Select a stock symbol from the dropdown menu.
@@ -37,10 +37,20 @@ The app will display the historical stock data and a time series chart with the 
 
 The forecasted stock prices will be shown in a separate chart.
 
-# Technologies Used
+## Technologies Used
 
 Streamlit: A Python framework for building interactive web applications.
 yfinance: A library for downloading historical stock data from Yahoo Finance.
 Prophet: A library for time series forecasting developed by Facebook.
 Plotly: A graphing library for creating interactive and dynamic visualizations.
 
+## Contributing
+Contributions to the stock prediction app are welcome! If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in this repository.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Acknowledgements
+The Streamlit community for their excellent documentation and support.
+The yfinance library developers for providing a convenient way to access stock data.
+The Prophet library developers for creating an effective forecasting tool.
