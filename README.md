@@ -8,11 +8,6 @@ https://github.com/iamdivyasharma/Streamlit_Application_for_Stock_Forecasting_us
 
 This is a stock prediction application that utilizes historical stock data to predict and display future stock prices. The app is built using the Streamlit framework and incorporates the Prophet library for forecasting.
 
-## Steps
-
-Run the application: streamlit run stock-prediction-app.py
-Open a web browser and navigate to the URL displayed in the terminal to access the app.
-
 ## Usage
 Upon running the app, a web page will open in your browser.
 
