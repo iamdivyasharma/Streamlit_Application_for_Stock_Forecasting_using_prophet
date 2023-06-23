@@ -47,10 +47,13 @@ Plotly: A graphing library for creating interactive and dynamic visualizations.
 ## Contributing
 Contributions to the stock prediction app are welcome! If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in this repository.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
 
 ## Acknowledgements
 The Streamlit community for their excellent documentation and support.
 The yfinance library developers for providing a convenient way to access stock data.
 The Prophet library developers for creating an effective forecasting tool.
+
+
+
+
